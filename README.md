@@ -22,7 +22,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja os projetos publicados do Sigmoidal:
 
-* **Analisando os Dados do Airbnb Madrid_Espanha:** (https://bit.ly/42xC7Xp)
+* **Analisando os Dados do Airbnb Madrid_Espanha:** https://bit.ly/42xC7Xp
 
 ---
 
